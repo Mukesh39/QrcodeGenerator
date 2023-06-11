@@ -27,7 +27,8 @@ To run the QR Code Generator locally, follow these steps:
 
 Clone the repository:
 
-git clone [https://github.com/username/repo.git](https://github.com/Mukesh39/QrcodeGenerator.git)
+git clone  https://github.com/Mukesh39/QrcodeGenerator.git
+
 
 Navigate to the project directory:
 
@@ -46,10 +47,12 @@ Once the QR code is generated,  to download  click the downLoad Button and Downl
 # Screenshots
 
 Look 1 
+
 ![Screenshot 2023-06-11 at 10 46 56 AM](https://github.com/Mukesh39/QrcodeGenerator/assets/102470215/691a953a-a3e0-4a29-912a-5f410c0a50a4)
 
 
 Look 2 
+
 ![Screenshot 2023-06-11 at 10 46 50 AM](https://github.com/Mukesh39/QrcodeGenerator/assets/102470215/7e9a77f8-5219-4f49-9cf9-b9d5986c69aa)
 
 
