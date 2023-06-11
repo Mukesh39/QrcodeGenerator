@@ -27,7 +27,7 @@ To run the QR Code Generator locally, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/username/repo.git
+git clone [https://github.com/username/repo.git](https://github.com/Mukesh39/QrcodeGenerator.git)
 
 Navigate to the project directory:
 
