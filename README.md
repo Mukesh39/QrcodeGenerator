@@ -2,8 +2,8 @@
 This repository contains a QR Code Generator web application built with HTML, CSS, and JavaScript. The application allows users to generate customized QR codes, download them, and adjust their size. Each QR code generated is unique and can be easily shared or used for various purposes.
 
 
-![Screenshot 2023-06-11 at 10 46 56 AM](https://github.com/Mukesh39/QrcodeGenerator/assets/102470215/700454af-bcf9-488c-905d-612e5a86e097)
 
+![Screenshot 2023-09-04 at 6 54 49 PM](https://github.com/Mukesh39/QrcodeGenerator/assets/102470215/53363e4b-c40a-42c9-b117-c2a397337753)
 
 
 
@@ -46,14 +46,9 @@ Once the QR code is generated,  to download  click the downLoad Button and Downl
 
 # Screenshots
 
-Look 1 
+Look  
 
-![Screenshot 2023-06-11 at 10 46 56 AM](https://github.com/Mukesh39/QrcodeGenerator/assets/102470215/691a953a-a3e0-4a29-912a-5f410c0a50a4)
-
-
-Look 2 
-
-![Screenshot 2023-06-11 at 10 46 50 AM](https://github.com/Mukesh39/QrcodeGenerator/assets/102470215/7e9a77f8-5219-4f49-9cf9-b9d5986c69aa)
+![Screenshot 2023-09-04 at 6 54 49 PM](https://github.com/Mukesh39/QrcodeGenerator/assets/102470215/5beb4ea7-f04e-4706-bc9f-660aff858c13)
 
 
 
@@ -64,6 +59,6 @@ Contributions are welcome! If you encounter any bugs or have ideas for new featu
 
 # License
 
-This project is licensed with  - Free To use and Modify format
+This project is licensed with  - MIT
 
 
